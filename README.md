@@ -6,8 +6,8 @@ This project is made in 4 different versions :
     - For Android using Python
     - For Android using JavaScript
 
-Contact : i.a.sebsil83@gmail.com
-Repository : https://github.com/iasebsil83/ZeldaRTP
+Contact     : i.a.sebsil83@gmail.com
+Youtube     : https://www.youtube.com/user/IAsebsil83
+GitHub repo : https://github.com/iasebsil83
 
-Enjoy !                                    By I.A.
-
+Let's Code !                                  By I.A.
