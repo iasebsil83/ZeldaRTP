@@ -6,6 +6,8 @@ This project is made in 4 different versions :
     - For Android using Python
     - For Android using JavaScript
 
+All these versions are available in the branches of the repo.
+
 Contact     : i.a.sebsil83@gmail.com
 Youtube     : https://www.youtube.com/user/IAsebsil83
 GitHub repo : https://github.com/iasebsil83
