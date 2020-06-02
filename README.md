@@ -27,4 +27,8 @@ LES COMBATS:
 	 et enfin on lui donne UN SEUL coup d'épée => il perds de la vie et se relève
 	 (et tout sa plusieurs fois biensûr)
 
-Cordialement, I.A. (Sebsil PRGMS)
+Contact     : i.a.sebsil83@gmail.com
+Youtube     : https://www.youtube.com/user/IAsebsil83
+GitHub repo : https://github.com/iasebsil83/ZeldaRTP/tree/ZeldaRTP_PC_Python
+
+Let's Code !                                  By I.A.
