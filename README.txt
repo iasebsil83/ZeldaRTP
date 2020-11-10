@@ -8,6 +8,11 @@ This project is made in 4 different versions :
 
 All these versions are available in the branches of the repo.
 
+https://github.com/iasebsil83/ZeldaRTP/tree/ZeldaRTP_Android_JS
+https://github.com/iasebsil83/ZeldaRTP/tree/ZeldaRTP_Android_Python
+https://github.com/iasebsil83/ZeldaRTP/tree/ZeldaRTP_PC_JS
+https://github.com/iasebsil83/ZeldaRTP/tree/ZeldaRTP_PC_Python
+
 Contact     : i.a.sebsil83@gmail.com
 Youtube     : https://www.youtube.com/user/IAsebsil83
 GitHub repo : https://github.com/iasebsil83
