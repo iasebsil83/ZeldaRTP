@@ -6,12 +6,30 @@ This project is made in 4 different versions :
     - For Android using Python
     - For Android using JavaScript
 
+
+
 All these versions are available in the branches of the repo.
 
-https://github.com/iasebsil83/ZeldaRTP/tree/ZeldaRTP_Android_JS
-https://github.com/iasebsil83/ZeldaRTP/tree/ZeldaRTP_Android_Python
-https://github.com/iasebsil83/ZeldaRTP/tree/ZeldaRTP_PC_JS
-https://github.com/iasebsil83/ZeldaRTP/tree/ZeldaRTP_PC_Python
+https://github.com/iasebsil83/ZeldaRTP/tree/Android_JS
+https://github.com/iasebsil83/ZeldaRTP/tree/Android_Python
+https://github.com/iasebsil83/ZeldaRTP/tree/PC_JS
+https://github.com/iasebsil83/ZeldaRTP/tree/PC_Python
+
+
+
+To access to these versions with command line use :
+
+- git clone https://github.com/iasebsil83/ZeldaRTP
+- cd ZeldaRTP
+    - git checkout Android_JS
+or
+    - git checkout Android_Python
+or
+    - git checkout PC_JS
+or
+    - git checkout PC_Python
+
+
 
 Contact     : i.a.sebsil83@gmail.com
 Youtube     : https://www.youtube.com/user/IAsebsil83
