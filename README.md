@@ -1,6 +1,6 @@
 # **ZeldaRTP [1.3.2]**
 
-***This project is made in 4 different versions :***
+***This project has been made in 4 different versions :***
  - For PC using Python
  - For PC using JavaScript
  - For Android using Python
@@ -30,7 +30,7 @@ All these versions are available in the branches of the repo.
 
 ## Command line
 
-To access to these versions with command line use :
+To access to these versions using command line :
 
 ```bash
 git clone https://github.com/iasebsil83/ZeldaRTP
