@@ -13,7 +13,7 @@
 
 # Current version
 
-You are currently using version **Android JavaScript**.
+You are currently using version **PC Python**.
 To come back to other versions, go to :
 
 https://github.com/iasebsil83/ZeldaRTP
@@ -27,9 +27,9 @@ Enjoy !
 
 # Language
 
-Though informations for this project are available in english, this project is only available in french.
+Though these informations are in **english**, this project is only available in **french**.
 
-This file has been written this way for a better internationnalization of the project overview.
+This file has been written this way for a better internationalization of the project overview.
 
 &nbsp;
 
@@ -42,7 +42,7 @@ Run ZeldaRTP.py to start the game.
 
 Further precisions:
 
- - This is a beta, the command that controls the keyboard pauses the game so all is rythmed to these actions.
+ - This is a beta, the command controling keyboard pauses the game so all is rythmed by your actions.
 
  - For the same reason as previously, it is then NORMAL that the display does not update itself everytime.
    (example: The sword only disapear at the next action)
@@ -71,9 +71,9 @@ Here is the solution for beating all the bosses of the game so you might not wan
  - For the third one, only the hookshot.
 
  - For the final bass, there is a strategy :
-       > First use hookshot => He is weakened
-       > Then use a bomb => He is falling down
-       > And finally, sweep ONE time with your sword => He is loosing 1 heart and standing up
+    > First use hookshot                          => He is weakened
+    > Then use a bomb                             => He is falling down
+    > And finally, sweep ONE time with your sword => He is loosing 1 heart and standing up again
 ```
 
 &nbsp;
