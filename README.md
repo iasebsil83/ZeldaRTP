@@ -1,4 +1,4 @@
-# **ZeldaRTP [1.3.2]**
+# **Zelda : Rescue The Princess [1.3.2]**
 
 ***This project has been made in 4 different versions :***
  - For PC using Python
@@ -35,7 +35,7 @@ To access to these versions using command line :
 ```bash
 git clone https://github.com/iasebsil83/ZeldaRTP
 cd ZeldaRTP
-git checkout <branch name>
+git checkout <branch_name>
 ```
 Branch name can be either ***Android_JS***, ***Android_Python***, ***PC_JS*** or ***PC_Python***.
 
